@@ -1,0 +1,1 @@
+{"mappings":"ACAA,cAIA","sources":["schoolTeamProject.8465c936.css","src/main.scss"],"sourcesContent":["h1 {\n  color: #00f;\n}\n\n.red {\n  color: red;\n}\n/*# sourceMappingURL=schoolTeamProject.8465c936.css.map */\n","h1 {\r\n    color: blue;\r\n}\r\n\r\n.red {\r\n    color: red;\r\n}"],"names":[],"version":3,"file":"schoolTeamProject.8465c936.css.map"}
