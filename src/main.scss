@@ -2,6 +2,38 @@ h1 {
     color: blue;
 }
 
-.red {
-    color: red;
+.hi {
+    color: green;
+    .red {
+        color: red;
+        background-color: blue;
+    }
 }
+
+
+
+
+// ---------------------IMPACT--------------------
+
+// .alumni-sans-<uniquifier> {
+//   font-family: "Alumni Sans", sans-serif;
+//   font-optical-sizing: auto;
+//   font-weight: <weight>;
+//   font-style: normal;
+// }
+
+
+
+
+
+
+// ---------------------ROBOTO--------------------
+
+// .roboto-<uniquifier> {
+//   font-family: "Roboto", sans-serif;
+//   font-optical-sizing: auto;
+//   font-weight: <weight>;
+//   font-style: normal;
+//   font-variation-settings:
+//     "wdth" 100;
+// }

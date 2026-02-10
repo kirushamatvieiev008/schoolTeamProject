@@ -1,1 +1,10 @@
-@import "./main.scss";
+h1 {
+  color: blue;
+}
+
+.red {
+  color: red;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
